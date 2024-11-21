@@ -14,13 +14,13 @@
 
 rustPlatform.buildRustPackage rec {
   pname = "lan-mouse";
-  version = "0.9.1";
+  version = "0.10.0";
 
   src = fetchFromGitHub {
     owner = "feschber";
     repo = "lan-mouse";
     rev = "v${version}";
-    hash = "sha256-BadpYZnZJcifhe916/X+OGvTQ4FQeTLnoy0gP/i5cLA=";
+    hash = "sha256-ofiNgJbmf35pfRvZB3ZmMkCJuM7yYgNL+Dd5mZZqyNk=";
   };
 
   nativeBuildInputs = [
