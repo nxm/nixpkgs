@@ -124,10 +124,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}.tar.gz",
-      "version": "2025.2",
-      "sha256": "85c83e8ed716e9cda03be922fd10d95c482f9f3c27e095dd768ddefd1e69462f",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.2.tar.gz",
-      "build_number": "252.23892.411"
+      "version": "2025.1.4.1",
+      "sha256": "f10bfc1028350a73928b49dc51db336e9c77c680b9844d29c305218e7d5db192",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.4.1.tar.gz",
+      "build_number": "251.27812.50"
     },
     "writerside": {
       "update-channel": "Writerside EAP",
